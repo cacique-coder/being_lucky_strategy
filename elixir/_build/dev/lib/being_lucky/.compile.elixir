@@ -1,0 +1,5 @@
+v2.
+{<<"_build/dev/lib/being_lucky/ebin/Elixir.BeingLucky.beam">>,
+ 'Elixir.BeingLucky',module,<<"lib/being_lucky.ex">>,
+ ['Elixir.Kernel'],
+ [],[],nil}.
