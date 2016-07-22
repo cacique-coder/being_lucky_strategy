@@ -22,13 +22,13 @@ a "5" can only count as part of a triplet (contributing to the 500
 points) or as a single 50 points, but not both in the same roll.
 
 Example Scoring
-
+```
    Throw       Score
    ---------   ------------------
    5 1 3 4 1   50 + 2 * 100 = 250
    1 1 1 3 1   1000 + 100 = 1100
    2 4 4 5 4   400 + 50 = 450
-
+```
 The dice not contributing to the score are called the non-scoring
 dice.  "3" and "4" are non-scoring dice in the first example.  "3" is
 a non-scoring die in the second, and "2" is a non-score die in the
