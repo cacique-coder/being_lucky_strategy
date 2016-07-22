@@ -1,6 +1,6 @@
 v2.
-{<<"_build/test/lib/being_lucky/ebin/Elixir.BeingLucky.beam">>,
- 'Elixir.BeingLucky',module,<<"lib/being_lucky.ex">>,
+{<<"_build/test/lib/being_lucky/ebin/Elixir.BeingLuckyStrategy.beam">>,
+ 'Elixir.BeingLuckyStrategy',module,<<"lib/being_lucky_strategy.ex">>,
  ['Elixir.Kernel'],
  ['Elixir.Map',erlang,'Elixir.Enum'],
  [],nil}.

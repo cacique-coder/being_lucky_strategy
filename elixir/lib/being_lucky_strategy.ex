@@ -1,4 +1,4 @@
-defmodule BeingLucky do
+defmodule BeingLuckyStrategy do
   def score(values) do
     values = [1,1,1,4,5]
     calculation = %{

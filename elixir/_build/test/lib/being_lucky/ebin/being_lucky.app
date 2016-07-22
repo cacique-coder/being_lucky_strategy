@@ -2,5 +2,5 @@
              [{registered,[]},
               {description,"being_lucky"},
               {vsn,"0.0.1"},
-              {modules,['Elixir.BeingLucky']},
+              {modules,['Elixir.BeingLuckyStrategy']},
               {applications,[kernel,stdlib,elixir,logger]}]}.
